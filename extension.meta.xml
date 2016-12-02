@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension id="http_cache_headers" status="stable" xmlns="http://symphony-cms.com/schemas/extension/1.0">
+	<name>HTTP Cache Headers</name>
+	<description>Allows to set custom cache headers via XSLT instead of the default no-cache headers</description>
+	<repo type="github">https://bitbucket.org/forwardtechsupport/http_cache_headers</repo>
+	<authors>
+		<author>
+			<name github="mazedigital" symphony="gunglien">Jonathan Mifsud</name>
+			<email>jonathan@maze.digital</email>
+		</author>
+	</authors>
+	<releases>
+		<release version="1.0.0" date="2016-12-02" min="2.3" max="2.6.x">
+			- First HTTP Cache Headers Release
+		</release>
+	</releases>
+</extension>
